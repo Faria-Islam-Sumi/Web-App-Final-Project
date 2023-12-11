@@ -1,4 +1,4 @@
-Group:Foodking
+
 Member 1:2030462
 Member 2:2022287
 Member 3:2020810
